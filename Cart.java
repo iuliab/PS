@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  *
- * @author Student
+ * @author iuliab
  */
 public class Cart {
     
